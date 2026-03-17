@@ -6808,6 +6808,10 @@
         "api": "https://rnsstudiesapi.classx.co.in"
     },
     {
+        "name": "RoaR NDA",
+        "api": "https://roarnda.akamai.net.in/" 
+    },
+    {    
         "name": "Robustlearning",
         "api": "https://robustlearningapi.classx.co.in"
     },
